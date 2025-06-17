@@ -1,4 +1,4 @@
-imput math
+import math
 number = float(input("Plesase enter a number: "))
 
 runded_number = math.ceil(number)
